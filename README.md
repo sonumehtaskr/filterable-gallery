@@ -19,7 +19,7 @@ This project is a simple **Filterable Image Gallery** where users can search for
 
 ## Demo
 
-You can view a live demo of this project [here](https://sonumehtaskr.github.io/Image-Gallery-With-Search).
+You can view a live demo of this project [here](https://sonumehtaskr.github.io/filterable-gallery).
 
 ## Screenshots
 
